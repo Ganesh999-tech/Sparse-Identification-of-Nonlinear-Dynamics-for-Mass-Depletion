@@ -36,6 +36,7 @@ Applying S-SINDy to a ground vehicle using physical IMU and Encoder data.
 
 
 Imagine you are trying to guess how heavy a backpack is without picking it up. Instead, you push it and see how fast it moves.
+
 Phase 2: The Magic Disappearing Fuel (Aerospace)
 
 Imagine a giant airplane is like a big juice box. As the plane flies, it "drinks" its fuel.
