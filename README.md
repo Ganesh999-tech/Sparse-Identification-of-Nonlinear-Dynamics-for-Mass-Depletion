@@ -1,0 +1,1 @@
+# Sparse-Identification-of-Nonlinear-Dynamics-for-Mass-Depletion
